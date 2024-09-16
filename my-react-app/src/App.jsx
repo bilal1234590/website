@@ -1,7 +1,8 @@
-import Header from "./header"
+import Card from "./Card"
+
 function App() {
-  return(
-    <Header></Header>
+  return (
+    <Card/>
   );
 }
 
